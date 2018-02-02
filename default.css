@@ -1,0 +1,44 @@
+    h1{
+		text-align: center;
+		}
+		h4{
+			position: relative;
+			top: 300px;
+			float: left;
+		}
+		h5{	
+		position: relative;
+			top: 300px;
+			float: left;
+		}
+		p{
+			float: right;
+		}
+		body {
+			background-image: url("a.JPG");
+			background-size: cover;
+			background-color:#000000;
+			color: #ffffff;
+		}
+		.box{
+		float:right;
+		}
+		h2{
+			text-align: center;
+			color:#ffffff;
+		}
+		h3{
+			text-align: center;
+		}
+		p{
+			margin-top: 0px;
+		}
+		.box2{
+			text-align: center;
+			width:300px;
+			height:80px;
+			background:#000000;
+			border:1px solid #a7e;
+			margin-top: 200px;
+		}
+    
